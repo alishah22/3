@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+}
+.one{
+justify-content: center;
+
+}
+h1{text-align: center;
+color: black;
+text-shadow: 5px;}
+
+img{
+margin-left: auto;
+margin-right: auto;
+    display: block;
+width: 25%;
+box-shadow: 3px 3px 3px black;
+}
+p{
+    text-align: center;
+    font-size: larger;
+}
